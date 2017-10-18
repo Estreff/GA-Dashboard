@@ -153,6 +153,10 @@ ul.alert-dropdown {
 .side-nav>li>ul>li>a:hover {
     color: #fff;
 }
+/* Panels */
+.panel {
+    box-shadow: 6px 6px 6px black;
+}
 
 /* Flot Chart Containers */
 
